@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts - protects a string, followed by a newlie to stdout
+ * _puts - protects a string, followed by a newline to stdout
  *
  * @str: string parameter to print
  *
