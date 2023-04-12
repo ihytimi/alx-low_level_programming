@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * **allloc_grid - returns pinter to a 2 dimensional array of integers
+ * **alloc_grid - returns pinter to a 2 dimensional array of integers
  * @width: integer value
  * @height: integer value
  * Return: 2d array
